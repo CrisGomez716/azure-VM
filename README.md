@@ -38,8 +38,9 @@
   # 8. Once you select your Windows settings accept
   <img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/6e0eabd0-ce96-4259-8a09-5c908dec0855" />
 
-
-This concludes this Lab.
+   # 9. Conclusion 
+      In this lab we were able to create a reapirce group and virtual machine
+      using Azure. We also used Remote Desktop to be able to log into our machine. 
 
 
 
